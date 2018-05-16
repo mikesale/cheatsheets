@@ -1,3 +1,35 @@
+Forked Dash Cheat Sheets for mikesale
+===========
+
+My planned sheets:
+
+1. Excel for Mac weirdness helps
+2. Sheet focused on what I want to exercise to learn in vim/neovim
+3. neovim plugin sheets for things like NERDTREE, NERDComment, etc.
+4. Personalized git and github  sheet
+5. brew sheet
+6. Personalized tmux and  ohmyzsh sheets
+7. Personalized Swift cheatsheet
+8. Personalized DBA sheet
+9. Extend regex with examples
+10. Personalized zsh
+11. Ulysses
+12. Things URL Scheme
+13. Workflow hints
+14. Notes apps suited for task (GoodNotes, Nebo, etc.)
+15. DTPO sheet
+16. Cheatset cheatsheet LOL
+17. Marginnote cheatsheet
+18. DayOne sheet
+19. Agenda sheet
+20. XCode personalized
+21. Font management
+22. Neovim init.vim hints
+23. vimrc hints
+24. Python personalized 
+25. Launchbar
+26. Personalized Markdown
+
 Dash Cheat Sheets 
 ===========
 
