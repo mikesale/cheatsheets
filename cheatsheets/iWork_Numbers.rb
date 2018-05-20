@@ -12,12 +12,12 @@ cheatsheet do
         ``` numbers
         Assuming the tables are named Original and Pivot, the cells in Pivot are filled using this formula:
 
-=SUMIFS(Original::$C, Original::$A, "="& $A2, Original::$B, "="& B$1)
-i.e. sum values in Original::$C if
+	=SUMIFS(Original::$C, Original::$A, "="& $A2, Original::$B, "="& B$1)
+	i.e. sum values in Original::$C if
 
-corresponding value in Original::$A = value in first column of Pivot
-corresponding value in Original::$B = value in first row of Pivot
-The 'all' values are just simple sums of those rows or columns.
+	corresponding value in Original::$A = value in first column of Pivot
+	corresponding value in  rOriginal::$B = value in first row of Pivot
+	The 'all' values are just simple sums of those rows or columns.
         ```
       END
     end
