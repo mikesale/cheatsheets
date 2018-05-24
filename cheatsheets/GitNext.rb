@@ -15,6 +15,22 @@ category do
 			```
 		END
 	end
+	entry do
+		name 'Change existing clone/fork to SSH'
+		notes <<-'END'
+			```github
+      git remote set-url origin git@github.com:mikesale/abc.git
+			```
+		END
+	end
+	entry do
+		name 'Global Config to use SSH'
+		notes <<-'END'
+			```github
+      git config --global url.ssh://git@github.com/.insteadOf https://github.com/
+			```
+		END
+	end
 end
 notes 'Use this sheet to build up memorized commands, then switch out when ready for the next level!'
 end
